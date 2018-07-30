@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hasina\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\gson-2.3.1-ea63fd79e32bef7db2f560f47a0ca3ed9fb53d72.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-bdacab8b7c6418702113a7d41f9bc63f571a29e1.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-2e00f44a9d560555902eeb211a48033b9595228f.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-14595b14c16ae4288292a0d12d84ec9aaa728f09.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8d81dccb8d051687f87c52f972e2126f656a69ae.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-e52339ef5c06182b04a09e30d94d516c578cd616.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-cb3e127ba8a862f7ba67d7a5ec15430fb32d7a51.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-06cd4090dd8fecaed0a20284747cd0feb4594ce4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hasina\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-2bf6e065debb334227f7d439eb5a8a59db2f9945.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-d773ea06b2f89df23619f935a9a0c874440a7dbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hasina\AppData\Local\Xamarin\Universal\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-fefc11c29943ca371c8c4f97506068ab6de42482.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-57290c596532ae985fce253abaa054c118384a7c.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-3a1c1e369cc134d4141c62ef51dd4c3c671be3d5.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-d29872d2344f9bc016bdd81c1c102fb301c220a0.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-eae780fb86f322092c26aa6f45c3a5f29bd781ae.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-760de0d8360a6ebaa8eba8518c3bf96bceee33bd.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-b4d342f908db29571a4e7a38490b7f9bd807d813.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hasina\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-e152cfcb589e3e3b23bba1abb6e2f0ba92de8759.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hasina\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\okio-1.4.0-5b358db09f991a17e23451c6dc47791c845f8d1a.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-87dab7146fae4e877212d968fdea306ba4b2c315.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-5d7a4f9c84484f98db1df5ac585244dac6087e35.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-ede66b20ebfa15f9052443358e0912bdb7936bf6.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-0a9562dacf32e577bfd86ece1362c06d65336446.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-e0a5e717db418bf170862a2d518dbe79225b2e99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hasina\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-e81573ad6179a907ea4b23fc2d2df8727f60995a.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-4ff9ac83720d221b5b29b5990f4dedc3eee9f7cb.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-6d8107edd3801a2c7739ecc4c1a0b15286a0de06.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-22ce54937696d4d6adbee092f90f66b9f6b3223f.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0be37d6cba5579fcc554d02594aa204f61fc0f9f.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-3c65b34eb1bfb3be50b112393a2d242739ace482.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-93f778220787068e91e1c3c4874d7cd4650cb56f.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-8b12fa8410a58822f6e5e56c14c2498066f048a0.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-cd0f490713893e556d4c0a366a312170f654f757.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-8b257f15aad4af08996a79512a389efbb81ca5dd.jar" />
+    </item>
+    <item
+        jar="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="G:\DeV\advancedsnapp\advsn\advanced-social-network_v1.0\SocNetwork\Project Files\SocNetwork\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-3618217f2c07783fea2204c82a438319f7a3385c.jar" />
+    </item>
+
+</items>

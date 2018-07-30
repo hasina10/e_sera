@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Admob unit ad -->
+    <string name="ad_unit_id">ca-app-pub-6768791965479873/7565633641</string>
+    <!-- app strings -->
+    <string name="app_name">e-Sera</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="useCount">1200 Uses</string>
+    <string name="viewsCount">3655 Views</string>
+    <string name="status">Science is a beautiful and emotional human endeavor, says Brannon Braga, executive producer and director</string>
+    <string name="profilName">Atouch Mohamed</string>
+    <string name="profilJob">Developer</string>
+    <string name="profilAdress">Agadir, Morocco</string>
+    <string name="follow">Follow</string>
+    <string name="contact">CONTACT</string>
+    <string name="featuredPhotos">Featured photos</string>
+    <string name="loadMore">Load More</string>
+    <string name="urStatus">Write somthing&#8230;</string>
+    <string name="publicPrivacy">To Public</string>
+    <string name="privatePrivacy">To Followers</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="job">Occupation</string>
+    <string name="name">Nom complet</string>
+    <string name="address">Adresse</string>
+    <string name="email">E-mail</string>
+    <string name="passwordConfirm">Confirmer votre mot de passe</string>
+    <string name="chooseAvatar">Choisir un photo de profil</string>
+    <string name="typeComment">Ecrire un commentaire&#8230;</string>
+    <string name="message_elipses">Ecrire un message&#8230;</string>
+    <string name="Agree">J\'approuve</string>
+    <string name="phoneNumber">Numéro de téléphone</string>
+
+    <string name="drawer_open"/>
+    <string name="drawer_close"/>
+    <string name="verify">Vérifier</string>
+
+    <string name="search_elipses">Nom ou E-mail</string>
+    <string name="verifyCode">Inserer le code que vous avez reçu</string>
+    <item name="TAG_OBJECT" type="id"/>
+    <item name="TAG_VIEW" type="id"/>
+    <item name="TAG_LIKE_ACTION" type="id"/>
+    <item name="TAG_FOLLOW_ACTION" type="id"/>
+
+    <string-array name="navDrawerItems">
+        <item>Accueil</item>
+        <item>Following</item>
+        <item>Trouver des personnes</item>
+        <item>Favoris</item>
+        <item>Messages</item>
+        <item>Réglages</item>
+        <item>Avertissment</item>
+        <item>Se déconnecter</item>
+    </string-array>
+
+    <array name="navDrawerIcons">
+        <item>@drawable/ic_action_home</item>
+        <item>@drawable/ic_action_following</item>
+        <item>@drawable/ic_action_following</item>
+        <item>@drawable/ic_action_favorite</item>
+        <item>@drawable/ic_chat</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_info</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+
+    <string name="publish">Publier quelque chose</string>
+    <string name="settings">Réglages</string>
+    <string name="medMe">MOI</string>
+    <string name="medMessage">hello bro ho are you today i saw this afternoon with ur girl friend near our house am i right ?</string>
+    <string name="medName">Mohamed Atouch</string>
+    <string name="medStatus">Hey There! I am using NetworkSocial</string>
+    <string name="medEmail">atouch.mohamed@gmail.com</string>
+    <string name="medLastSeen">12:35 29/12/2014</string>
+    <string name="medLastMessage">hello bro ho are you today i saw this afternoon with ur girl friend</string>
+    <string name="medDate">5 days ago</string>
+    <string name="title_disclaimer">Disclaimer</string>
+    <string name="title_login">Login</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_post">Post</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_following">Following</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_find_people">Find People</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="report">Report</string>
+    <string name="title_activity_profile_preview">ProfilePreview</string>
+    <string name="title_activity_post_comments">PostComments</string>
+    <string name="title_activity_youtube_video_player">YoutubeVideoPlayer</string>
+    <string name="title_activity_map_preveiw">MapPreveiw</string>
+    <string name="title_activity_full_screen_image_view">FullScreenImageViewActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_followers">Followers</string>
+    <string name="ServerError">Veuillez vérifier votre connexion s\'il vous plait</string>
+    <string name="SomethingWentWrong">Something Went Wrong</string>
+    <string name="UnFollow">Ne plus suivre</string>
+    <string name="Follow">Suivre</string>
+    <string name="Insert_a_link">Insérer un lien</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULER</string>
+    <string name="Error_empty_post">Vous ne pouvez pas publier un annonce vide</string>
+    <string name="changed_to_private">Confidentialité changé en privé</string>
+    <string name="changed_to_public">Confiddentialité changé en publique</string>
+    <string name="username_is_short">Nom d\'utilisateur trop court</string>
+    <string name="invalid_email">E-mail invalide</string>
+    <string name="password_is_short">Mot de passe trop court</string>
+    <string name="Passwords_does_not_much">Les mot de passe ne correspondent pas</string>
+    <string name="select_picture">Sélecionnez une image</string>
+    <string name="Make_sure">Etes-vous sur?</string>
+    <string name="Yes">OUI</string>
+    <string name="No">NON</string>
+    <string name="name_is_to_short">Nom trop court</string>
+    <string name="job_too_short">Occupation trop court</string>
+    <string name="Adresse_too_short">Adresse trop court</string>
+    <string name="select_an_image">Sélectionnez une image</string>
+    <string name="please_wait">Vauillez patienter...</string>
+    <string name="image_failed">Echec du téléchargement de l\'image</string>
+    <string name="set_as_wallpaper">Image choisit comme fond d\'écran de votre télécphone</string>
+    <string name="sharePost">Partager annonce</string>
+    <string name="title_publish">Publier</string>
+    <string name="type_comment">Ecrire un commentaire</string>
+    <string name="invitation_title">Inviter vos amis</string>
+    <string name="invitation_message">hé! tu veux pas essayer cette appli</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="title_hashtag">hashtag</string>
+</resources>
